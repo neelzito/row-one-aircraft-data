@@ -1,9 +1,9 @@
-# MyFlight aircraft table
+# Row One aircraft table
 
-The aircraft registration database bundled with the [MyFlight](https://www.milivon.com) iPhone app,
+The aircraft registration database bundled with the [Row One](https://www.milivon.com) iPhone app,
 published under the [Open Database License (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/1-0/).
 
-MyFlight uses it offline to identify an aircraft from its registration (for example `D-AIXP` → Airbus A340-600).
+Row One uses it offline to identify an aircraft from its registration (for example `D-AIXP` → Airbus A340-600).
 
 ## Contents
 
@@ -31,12 +31,12 @@ Built 2026-10-17; FAA details added 2026-11-20.
   model, serial number and year built for US N-registrations, US government work (public domain).
   Owner names and addresses are not included.
 
-They were merged and filtered (airliners and other aircraft with a registration) by MyFlight's build scripts.
+They were merged and filtered (airliners and other aircraft with a registration) by Row One's build scripts.
 Because the result is derived from an ODbL database, it is offered here under the same license.
 
 ## License
 
-This MyFlight aircraft table is made available under the Open Database License:
+This Row One aircraft table is made available under the Open Database License:
 https://opendatacommons.org/licenses/odbl/1-0/. Any rights in individual contents of the database are
 licensed under the Database Contents License: https://opendatacommons.org/licenses/dbcl/1-0/.
 
